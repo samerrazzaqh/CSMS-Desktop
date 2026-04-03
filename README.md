@@ -1,5 +1,3 @@
-# CSMS-Desktop
-
 # CSMS-Desktop with C# Form 
 🚀 A practical **Desktop ** application for building a full **CSMS** project.  
 
