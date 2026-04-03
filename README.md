@@ -4,7 +4,7 @@
 🚀 A practical **Desktop ** application for building a full **CSMS** project.  
 
 📺 You can watch the full project explanation on my YouTube channel:  
-🔗 **[Watch here](https://www.youtube.com/@GeekCodeDev/videos)**  
+🔗 **[Watch here](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master/CSMS/ImageProject)**  
 
 
 ## 📌 Description  
