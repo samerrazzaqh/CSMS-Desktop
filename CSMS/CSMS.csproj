@@ -292,6 +292,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="3069182_device_business_computer_technology_office_icon.ico" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.53.39 PM.png" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.53.57 PM.png" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.54.33 PM.png" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.55.01 PM.png" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.55.34 PM.png" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.55.51 PM.png" />
+    <Content Include="ImageProject\Screenshot 2026-04-03 at 1.56.16 PM.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
